@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineering Graduate | Full-Stack Developer</h3>
 
 <p align="center">
-  📍 Mekelle, Ethiopia <br>
+  📍 Addis Abeba, Ethiopia <br>
   📧 likedimos19@gmail.com
 </p>
 
